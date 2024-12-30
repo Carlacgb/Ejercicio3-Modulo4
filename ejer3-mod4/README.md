@@ -3,7 +3,9 @@
 Aplicar todo lo aprendido sobre ReactJS para crear un sistema completo para el hospital. Implementar componentes reutilizables, optimizarán el rendimiento, y manejarán interacciones complejas con datos a través de APIs. Todas las vistas del sistema del hospital (Home, Servicios, Equipo Médico, Citas) deberán integrar componentes avanzados y técnicas de optimización de ReactJS.
 
 ## 1. Implementación de Vistas Complejas con ReactJS
-- Vista Principal (Home): Incluye una lista de servicios destacados y una sección con información del hospital.
+- Vista Principal (Home): 
+- Vista del Equipo Médico: 
+- Vista de citas: formulario para agendar citas con validaciones.
 
 ## 2. Optimización del DOM Virtual y Uso de Fragmentos
 
