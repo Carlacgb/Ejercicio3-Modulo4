@@ -1,8 +1,16 @@
-# React + Vite
+# EJERCICIO 3 - MÓDULO 4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicar todo lo aprendido sobre ReactJS para crear un sistema completo para el hospital. Implementar componentes reutilizables, optimizarán el rendimiento, y manejarán interacciones complejas con datos a través de APIs. Todas las vistas del sistema del hospital (Home, Servicios, Equipo Médico, Citas) deberán integrar componentes avanzados y técnicas de optimización de ReactJS.
 
-Currently, two official plugins are available:
+## 1. Implementación de Vistas Complejas con ReactJS
+- Vista Principal (Home): Incluye una lista de servicios destacados y una sección con información del hospital.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 2. Optimización del DOM Virtual y Uso de Fragmentos
+
+## 3. Uso de Referencias y Callbacks
+
+## 4. Manejo de Datos con API REST Simulada
+
+## 5. Optimización de Rendimiento y Uso de Profiler
+
+## 6. Comprobación de Tipos con PropTypes
